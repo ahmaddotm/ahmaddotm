@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm AHMAD</h1>
-<h3 align="left">A self thought web designer/developer</h3>
+<h3 align="left">A self taught web designer/developer</h3>
 
 - 🌱 I’m currently learning **vuejs, nuxtjs**
 
