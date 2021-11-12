@@ -10,5 +10,5 @@
 - ⚡ Fun fact about me: **I don't drink coffee ☕ !**
 
 <h3 align="left">Connect with me:</h3>
-(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ahmaddotm/)
-(https://img.shields.io/badge/instagram-red?style=flat&logo=linkedin&labelColor=blue&link=https://www.instagram.com/ahmaddotm/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ahmaddotm/)
+![instagram Badge](https://img.shields.io/badge/instagram-red?style=flat&logo=linkedin&labelColor=blue&link=https://www.instagram.com/ahmaddotm/)
