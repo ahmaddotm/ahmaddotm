@@ -27,59 +27,42 @@
 
 <h3 align="left">languages and tools:</h3>
 <p align="left"> 
-  &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-javascript-gray?style=flat&logo=javascript">
   </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
-    <img src="https://img.shields.io/badge/-javascript-gray?style=flat&logo=javascript">
+    <img src="https://img.shields.io/badge/-typescript-gray?style=flat&logo=typescript">
   </a> 
-   &emsp; 
-  <a href="https://www.github.com/ahmaddotm" target="_blank"> 
-    <img src="https://img.shields.io/badge/-javascript-gray?style=flat&logo=typescript">
-  </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-vuejs-gray?style=flat&logo=vuedotjs">
   </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-nuxtjs-gray?style=flat&logo=nuxtdotjs">
   </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-html5-gray?style=flat&logo=html5">
   </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-css3-gray?style=flat&logo=css3">
   </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-sass-gray?style=flat&logo=sass">
   </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-tailwindcss-gray?style=flat&logo=tailwindcss">
   </a> 
-   &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
-    <img src="https://img.shields.io/badge/-adobexd-gray?style=flat&logo=adobexd">
+    <img src="https://img.shields.io/badge/-adobe xd-gray?style=flat&logo=adobexd">
   </a>
-    &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-figma-gray?style=flat&logo=figma">
   </a>
-    &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-adobe photoshop-gray?style=flat&logo=adobephotoshop">
   </a>
-    &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-adobe illustrator-gray?style=flat&logo=adobeillustrator">
   </a>
-    &emsp; 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-blender-gray?style=flat&logo=blender">
   </a>
