@@ -10,3 +10,21 @@
 - ⚡ Fun fact about me: **I don't drink coffee ☕ !**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.linkedin.com/in/ahmaddotm" target="_blank"> 
+    <img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin">
+  </a> 
+  &emsp;
+  <a href="https://www.instagram.com/ahmaddotm/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-instagram-pink?style=flat&logo=instagram">
+  </a> 
+  &emsp;
+  <a href="https://codepen.io/ahmaddotm" target="_blank"> 
+     <img src="https://img.shields.io/badge/-codepen-gray?style=flat&logo=codepen">
+   </a>
+  &emsp;
+  <a href="mailto:ahmaddotm@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-gmail-green?style=flat&logo=gmail">
+  </a>
+</p>
