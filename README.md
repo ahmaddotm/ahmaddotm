@@ -63,6 +63,9 @@
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-adobe illustrator-gray?style=flat&logo=adobeillustrator">
   </a>
+    <a href="https://www.github.com/ahmaddotm" target="_blank"> 
+    <img src="https://img.shields.io/badge/-adobe premiere pro-gray?style=flat&logo=adobepremierepro">
+  </a>
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-blender-gray?style=flat&logo=blender">
   </a>
