@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm AHMAD</h1>
 <h3 align="left">A self taught web designer/developer</h3>
 
-- 🌱 I’m currently learning **vuejs, nuxtjs**
+- 🌱 I’m currently learning **Reactjs, Nextjs**
 
 - 💬 Ask me about **web design**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact about me: **I don't drink coffee ☕ !**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin">
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/-typescript-gray?style=flat&logo=typescript">
   </a> 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
-    <img src="https://img.shields.io/badge/-vuejs-gray?style=flat&logo=vuedotjs">
+    <img src="https://img.shields.io/badge/-reactjs-gray?style=flat&logo=reactdotjs">
   </a> 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-nuxtjs-gray?style=flat&logo=nuxtdotjs">
