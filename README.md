@@ -27,17 +27,17 @@
 
 <h3 align="left">languages and tools:</h3>
 <p align="left"> 
-  <a href="https://www.github.com/ahmaddotm" target="_blank"> 
+  <a href="https://www.javascript.com?refhttps://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-javascript-gray?style=flat&logo=javascript">
   </a> 
-  <a href="https://www.github.com/ahmaddotm" target="_blank"> 
+  <a href="https://www.typescriptlang.org?refhttps://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-typescript-gray?style=flat&logo=typescript">
   </a> 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
-    <img src="https://img.shields.io/badge/-reactjs-gray?style=flat&logo=reactdotjs">
+    <img src="https://img.shields.io/badge/-React-gray?style=flat&logo=react">
   </a> 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
-    <img src="https://img.shields.io/badge/-nuxtjs-gray?style=flat&logo=nuxtdotjs">
+    <img src="https://img.shields.io/badge/-nextjs-gray?style=flat&logo=nextdotjs">
   </a> 
   <a href="https://www.github.com/ahmaddotm" target="_blank"> 
     <img src="https://img.shields.io/badge/-html5-gray?style=flat&logo=html5">
